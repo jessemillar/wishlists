@@ -13,3 +13,10 @@
 - Convenience tuner
 - More straps (TODO: Check/document preferred length range)
 - Rock Smith
+
+## Streaming
+
+- Second webcam
+- Throttle
+
+## Games
