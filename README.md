@@ -3,20 +3,18 @@
 ## Books
 
 - Ready Player Two
+- Guitar-oriented music theory book
 
 ## Guitar
 
-- Strap locks
-- Pedals
-- Stand
+- Effects pedals
 - Audio interface
 - Convenience tuner
 - More straps (TODO: Check/document preferred length range)
-- Rock Smith
 
 ## Streaming
 
 - Second webcam
-- Throttle
+- Green screen
 
 ## Games
