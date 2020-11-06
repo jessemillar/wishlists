@@ -18,3 +18,5 @@
 - Green screen
 
 ## Games
+
+- Need for Speed Hot Pursuit - Remastered
