@@ -7,9 +7,13 @@
 
 ## Guitar
 
-- Effects pedals (https://www.guitarcenter.com/Boss/Dave-Navarro-Pedal-Pack-CH-1-TU-3-DS-1-with-Free-BCB30-Pedal-Board-1339512806770.gc)
+- Boss DS-1 Distortion pedal
+- Dunlop Mini Crybaby pedal
+- Boss RC-5 Loop Station
+- Pedaltrain Nano+ pedalboard
+- Pedalboard power supply
 - Audio interface
-- Convenience tuner
+- Delay pedal
 - More straps (TODO: Check/document preferred length range)
 
 ## Streaming
