@@ -11,6 +11,7 @@
 - Dunlop Mini Crybaby pedal
 - Boss RC-5 Loop Station
 - Pedaltrain Nano+ pedalboard
+- Pancake pedalboard connector cables
 - Pedalboard power supply
 - Audio interface
 - Delay pedal
