@@ -15,6 +15,7 @@
 - Pedalboard power supply
 - Audio interface
 - Delay pedal
+- Strap locks
 - More straps (TODO: Check/document preferred length range)
 
 ## Streaming
