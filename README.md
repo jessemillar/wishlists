@@ -13,7 +13,7 @@
 - Pedaltrain Nano+ pedalboard
 - Pancake pedalboard connector cables
 - Pedalboard power supply
-- Audio interface
+- Audio interface (maybe an [OMEC Teleport](https://orangeamps.com/omec-teleport/#overview))
 - Delay pedal
 - Strap locks
 - More straps (TODO: Check/document preferred length range)
