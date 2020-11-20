@@ -15,6 +15,8 @@
 - Pedalboard power supply
 - Audio interface (maybe an [OMEC Teleport](https://orangeamps.com/omec-teleport/#overview))
 - Delay pedal
+- Peg winder
+- Measurement tools (for intonation, action, etc.)
 - Strap locks
 - More straps (TODO: Check/document preferred length range)
 
