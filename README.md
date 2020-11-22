@@ -7,18 +7,19 @@
 
 ## Guitar
 
+- Boss RC-5 Loop Station
 - Boss DS-1 Distortion pedal
 - Dunlop Mini Crybaby pedal
-- Boss RC-5 Loop Station
-- Pedaltrain Nano+ pedalboard
-- Pancake pedalboard connector cables
-- Pedalboard power supply
+- [BOSS BCB-60 pedalboard](https://www.sweetwater.com/store/detail/BCB60--boss-bcb-60-deluxe-pedal-board-and-case)
+~- Pedaltrain Nano+ pedalboard~
+~- Pancake pedalboard connector cables~
+~- Pedalboard power supply~
 - Audio interface (maybe an [OMEC Teleport](https://orangeamps.com/omec-teleport/#overview))
 - Delay pedal
 - Peg winder
 - Measurement tools (for intonation, action, etc.)
 - Strap locks
-- More straps (TODO: Check/document preferred length range)
+~- More straps (TODO: Check/document preferred length range)~
 
 ## Streaming
 
