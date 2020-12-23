@@ -17,9 +17,13 @@
 
 ### Potential Pedalboards
 
+> I'm not sure if I actually want any of these, but I'm curious enough about them to make a formal note.
+
 - [Pedaltrain Classic JR kit](https://www.sweetwater.com/store/detail/PedalBrdKitE--pedaltrain-classic-jr-sc-gigging-pedalboard-kit)
 
 ### Potential Pedalboard Power Supplies
+
+> I'm not sure if I actually want any of these, but I'm curious enough about them to make a formal note.
 
 - [1Spot Pro CS6 power supply](https://www.sweetwater.com/store/detail/1SpotProCS6--truetone-1-spot-pro-cs6-6-output-low-profile-isolated-guitar-pedal-power-supply)
 - [Voodoo Lab Pedal Power 2 Plus Isolated Power Supply](https://www.amazon.com/dp/B0002IHGZC/ref=cm_sw_r_oth_api_glc_fabc_mvP3FbEW21W8A?_encoding=UTF8&psc=1)
