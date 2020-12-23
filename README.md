@@ -9,19 +9,20 @@
 - BOSS RC-5 Loop Station
 - BOSS DS-1 Distortion pedal
 - Cry Baby Mini wah pedal from Dunlop
-- [BOSS BCB-60 pedalboard](https://www.sweetwater.com/store/detail/BCB60--boss-bcb-60-deluxe-pedal-board-and-case)
 - [OMEC Teleport](https://orangeamps.com/omec-teleport/#overview)
 - Delay pedal
 - Measurement tools (for intonation, action, etc.)
 - Peg winder
 - Strap locks
 
-Voodoo Lab Pedal Power 2 Plus Isolated Power Supply https://www.amazon.com/dp/B0002IHGZC/ref=cm_sw_r_oth_api_glc_fabc_mvP3FbEW21W8A?_encoding=UTF8&psc=1
-https://www.amazon.com/dp/B0002IHGZC/ref=cm_sw_r_oth_api_glc_fabc_mvP3FbEW21W8A?_encoding=UTF8&psc=1
-https://www.sweetwater.com/store/detail/PedalBrdKitE--pedaltrain-classic-jr-sc-gigging-pedalboard-kit
-https://www.sweetwater.com/store/detail/1SpotProCS6--truetone-1-spot-pro-cs6-6-output-low-profile-isolated-guitar-pedal-power-supply
+### Potential Pedalboard Setups
 
-### Pedals
+- [Voodoo Lab Pedal Power 2 Plus Isolated Power Supply](https://www.amazon.com/dp/B0002IHGZC/ref=cm_sw_r_oth_api_glc_fabc_mvP3FbEW21W8A?_encoding=UTF8&psc=1)
+- [Unknown](https://www.amazon.com/dp/B0002IHGZC/ref=cm_sw_r_oth_api_glc_fabc_mvP3FbEW21W8A?_encoding=UTF8&psc=1)
+- [Pedaltrain Classic JR kit](https://www.sweetwater.com/store/detail/PedalBrdKitE--pedaltrain-classic-jr-sc-gigging-pedalboard-kit)
+- [1Spot Pro CS6 power supply](https://www.sweetwater.com/store/detail/1SpotProCS6--truetone-1-spot-pro-cs6-6-output-low-profile-isolated-guitar-pedal-power-supply)
+
+### Potential Pedals
 
 > I'm not sure if I actually want any of these, but I'm curious enough about them to make a formal note.
 
