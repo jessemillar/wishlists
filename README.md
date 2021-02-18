@@ -1,6 +1,6 @@
 # Wishlists
 
-> Categories and items in categories are all prioritized with most-desired items/categories near the top. Don't worry too much about it though. If it's anywhere on the list, I'm gonna love it.
+> Items in categories are prioritized with the most-desired stuff near the top. Don't worry too much about it though. If it's anywhere on the list, I'm gonna love it.
 
 ## Guitar
 
